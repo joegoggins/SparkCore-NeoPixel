@@ -1,8 +1,10 @@
+
 /*
  * This is a minimal example, see extra-examples.cpp for a version
  * with more explantory documentation, example routines, how to 
  * hook up your pixels and all of the pixel types that are supported.
  *
+ * THIS IS A LOCAL MOD
  */
 
 #include "application.h"
